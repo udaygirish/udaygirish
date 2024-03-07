@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://github.com/udaygirish/udaygirish/blob/main/uday_fun_poster.png)
+
+[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 <!--
 **udaygirish/udaygirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
