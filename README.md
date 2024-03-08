@@ -9,9 +9,19 @@
 - 📫 How to reach me: einsteingirish@gmail.com, udaygirishm@gmail.com
 - 😄 Pronouns: He/Him
 
-[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!--[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact) -->
+<div align="center">
+  <a href="https://github.com/udaygirish">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula" alt="UdayGirish's GitHub Stats"/>
+  </a>
+  
+  <a href="https://github.com/udaygirish">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact" alt="UdayGirish's Top Languages"/>
+  </a>
+</div>
+
 
 [![Udaygirish WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udaygirish&layout=compact)]()
 <!--
