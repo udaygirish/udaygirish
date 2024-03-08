@@ -12,7 +12,7 @@
 <!--[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact) -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/udaygirish">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula" alt="UdayGirish's GitHub Stats"/>
   </a>
