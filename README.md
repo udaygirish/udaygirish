@@ -12,6 +12,8 @@
 [![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udaygirish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **udaygirish/udaygirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
