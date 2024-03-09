@@ -14,11 +14,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact) -->
 <div align="left">
   <a href="https://github.com/udaygirish">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula" alt="UdayGirish's GitHub Stats"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula" alt="UdayGirish's GitHub Stats"/>
   </a>
   
   <a href="https://github.com/udaygirish">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact" alt="UdayGirish's Top Languages"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact" alt="UdayGirish's Top Languages"/>
   </a>
 </div>
 
