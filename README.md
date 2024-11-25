@@ -8,6 +8,7 @@
 - 💬 Ask me about Tech, Robotics, AI, ML, Philosophy, Quantum Physics
 - 📫 How to reach me: einsteingirish@gmail.com, udaygirishm@gmail.com
 - Academic Email: umaradana@wpi.edu
+- Education: B.Tech (Mechanical Eng.), Post Graduation - AI/ML, MA Philosophy, MS Robotics
 - 😄 Pronouns: He/Him
 
 <!--[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
