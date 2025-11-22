@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Robotics Projects especially the current ones I'm working (Check here [Projects Link](https://udaygirish.github.io/projects/))
 - 💬 Ask me about Tech, Robotics, AI, ML, Philosophy, Quantum Physics
 - 📫 How to reach me: einsteingirish@gmail.com, udaygirishm@gmail.com
-- Academic Email: umaradana@wpi.edu
+- Academic Email: udaygirishm@gmail.com
 - 👨‍🎓 Education: B.Tech (Mechanical Eng.), Post Graduation - AI/ML, MA Philosophy, MS Robotics
 - 😄 Pronouns: He/Him
 
