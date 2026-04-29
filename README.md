@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ![](https://github.com/udaygirish/udaygirish/blob/main/uday_fun_poster.png)
-- 🔭 I'm currently working on 3D Reconstruction-based/Monocular Depth from RGB based Grasping & Out of Reach Manipulation using learning.
-- 🔭 For fun, I’m currently working on MLOps Pipeline- News Rec, Chatbot, News Robotics- Autonomous Bots (2 Bots (1 a Traditional One & F1 Tenth Version)), CV Deployments of personal projects
-- 🌱 I’m currently learning 3D Computer Vision, LLM's , Edge Computing , CUDA.
 - 👯 I’m looking to collaborate on Robotics Projects especially the current ones I'm working (Check here [Projects Link](https://udaygirish.github.io/projects/))
 - 💬 Ask me about Tech, Robotics, AI, ML, Philosophy, Quantum Physics
 - 📫 How to reach me: einsteingirish@gmail.com, udaygirishm@gmail.com
