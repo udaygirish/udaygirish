@@ -11,7 +11,7 @@
 <!--[![UdayGirish GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirish&layout=compact) -->
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/udaygirish">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=udaygirish&show_icons=true&theme=dracula" alt="UdayGirish's GitHub Stats"/>
   </a>
@@ -22,7 +22,7 @@
 </div>
 
 
-[![Udaygirish WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udaygirish&layout=compact)]()
+[![Udaygirish WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udaygirish&layout=compact)]() -->
 <!--
 **udaygirish/udaygirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
